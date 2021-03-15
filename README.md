@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Azamat Sharipov
+- 👀 I’m interested in web-developmment, UX/UI design
+- 🌱 I’m currently learning Front-end development, UX/UI design
+- 💞️ I’m looking to collaborate on Web-development and web-design
+- 📫 How to reach me this is my email: az9798mt@gmail.com
